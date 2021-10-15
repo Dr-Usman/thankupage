@@ -6,9 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![Screenshot_1634277809](https://user-images.githubusercontent.com/48102385/137440241-52e29887-283f-43a3-a3da-3360875995f6.png)  ![Screenshot_2](https://user-images.githubusercontent.com/48102385/137440270-c5176e3e-a111-43fb-9d19-491f8a2bf54f.png)
+![Screenshot_1634277809](https://user-images.githubusercontent.com/48102385/137441889-1ade8bd6-9b5a-422c-98ab-37c98dd7d712.png) ![Screenshot_2](https://user-images.githubusercontent.com/48102385/137441898-70d169f0-bff4-418d-81e0-c9eb38961ea6.png)
 
-![Screenshot_1](https://user-images.githubusercontent.com/48102385/137440295-6f7fb0c8-d7ac-4e93-9bbe-dfc51072889e.png)
+
+![Screenshot_1](https://user-images.githubusercontent.com/48102385/137441964-e6b9509c-687e-4fab-bebd-53f5fa33b531.png)
 
 
 A few resources to get you started if this is your first Flutter project:
